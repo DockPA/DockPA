@@ -1,4 +1,8 @@
 # Oi, me chamo Samuel Pacheco 👋
+### Entre em contato comigo! 📭
+<div></a>
+<a href="https://www.linkedin.com/in/samuel-pacheco-5b228326a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ### Sobre mim
 
@@ -56,10 +60,6 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DockPA&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Entre em contato comigo! 📭
-<div></a>
-<a href="https://www.linkedin.com/in/samuel-pacheco-5b228326a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 
 
